@@ -1,9 +1,9 @@
 h1 {
-color:blue;font-family: Ithaca; sans-serif; font-size: 50px;background-color: yellow;
+color:yellow;font-family: Ithaca; sans-serif; font-size: 70px;
 }
 
 h2 {
-color: blue; font-family: Ithaca; sans-serif; font-size: 50px; background-color: yellow; border: 5px palevioletred;
+color: yellow; font-family: Ithaca; sans-serif; font-size: 50px;
 }
 
 @font-face {
