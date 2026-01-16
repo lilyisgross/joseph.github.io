@@ -6,6 +6,10 @@ h2 {
 color: yellow; font-family: Ithaca; sans-serif; font-size: 50px;
 }
 
+body {
+color: yellow; font-family: Ithaca; sans-serif; font size 50px;
+}
+
 @font-face {
     font-family: Ithaca;
     src: url(ithaca-font/Ithaca-LVB75.ttf);
