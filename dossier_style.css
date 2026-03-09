@@ -1,19 +1,10 @@
-h1 {
-color:yellow;font-family: Ithaca; sans-serif; font-size: 80px;
-}
-
-h2 {
-color: yellow; font-family: Ithaca; sans-serif; font-size: 50px;
-}
-
 body {
-color: yellow; font-family: Ithaca; sans-serif; font size 50px;
+  font-family: Helvetica;
 }
-
-@font-face {
-    font-family: Ithaca;
-    src: url(ithaca-font/Ithaca-LVB75.ttf);
+  
+  h1 {
+  text-align: center;
 }
-
-h1 {text-align: center;}
-body {text-align: center;}
+  h2 {
+  text-align: center;
+}
