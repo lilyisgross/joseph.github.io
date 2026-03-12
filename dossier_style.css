@@ -33,8 +33,20 @@ ul li a:hover {
   background-color: #111111;
 }
 
-a:link {
-  text-decoration: none;
-a:hover {
-  color: #a48668;
+div.a {
+    position: absolute;
+  right: 100px;  
+  width: 800px;
+  background-color: #FFB347;
+  padding: 5px 5px 5px 5px;
+
+}
+
+div.q {
+    position: absolute;
+  left: 100px;  
+  width: 600px;
+  background-color: #FFB347;
+  padding: 5px 5px 5px 5px;
+
 }
