@@ -35,6 +35,7 @@ ul li a:hover {
 
 a:link {
   text-decoration: none;
+  color: #FF69B4;
 }
 
 div.response {
