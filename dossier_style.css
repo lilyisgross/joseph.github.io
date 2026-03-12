@@ -33,19 +33,10 @@ ul li a:hover {
   background-color: #111111;
 }
 
-div.a {
+div.response {
     position: absolute;
-  right: 100px;  
+  left: 50px;  
   width: 800px;
-  background-color: #FFB347;
-  padding: 5px 5px 5px 5px;
-
-}
-
-div.q {
-    position: absolute;
-  left: 100px;  
-  width: 600px;
   background-color: #FFB347;
   padding: 5px 5px 5px 5px;
 
