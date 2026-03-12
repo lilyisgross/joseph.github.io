@@ -1,8 +1,10 @@
 
 body {
-  color: #d6d0c5; font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #d6d0c5; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-body {background-color: #5b1f11;
+body {
+  <body 
+  background-color: #5b1f11;
   }
 
   h1 {
@@ -33,7 +35,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #323659;
 }
 
 a:link {
