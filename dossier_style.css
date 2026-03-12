@@ -1,7 +1,10 @@
+
 body {
-  font-family: Garamond, serif;
+  color: #d6d0c5; font-family: Georgia, 'Times New Roman', Times, serif;
 }
-  
+body {background-color: #5b1f11;
+  }
+
   h1 {
   text-align: center;
 }
@@ -13,7 +16,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #323659;
 }
 
 ul li {
@@ -41,7 +44,7 @@ div.response {
     position: relative;
   left: 50px;  
   width: 800px;
-  background-color: #FFB347;
+  background-color: #323659;
   padding: 5px 5px 5px 5px;
 
 }
