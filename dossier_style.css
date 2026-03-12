@@ -33,6 +33,10 @@ ul li a:hover {
   background-color: #111111;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 div.response {
     position: absolute;
   left: 50px;  
