@@ -47,6 +47,7 @@ div.response {
 
 }
 
+<head>
 <style>
 a:link {
   color: #b27d57;
@@ -69,3 +70,4 @@ a:active {
   text-decoration: underline;
 }
 </style>
+</head>
