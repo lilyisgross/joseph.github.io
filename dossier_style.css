@@ -48,26 +48,24 @@ div.response {
 }
 
 <head>
-<style>
 a:link {
-  color: #b27d57;
+  color: #0f4e77;
   background-color: transparent;
   text-decoration: none;
-}
+
 a:visited {
-  color: #424c21;
+  color: #D66536;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #173125;
+  color: #929673;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: #212e40;
+  color: #718eaf;
   background-color: transparent;
   text-decoration: underline;
 }
-</style>
 </head>
