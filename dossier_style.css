@@ -34,10 +34,6 @@ ul li a:hover {
   background-color: #d4c6ba;
 }
 
-a:link {
-  text-decoration: none;
-}
-
 div.response {
     position: relative;
   left: 50px;  
@@ -52,7 +48,7 @@ a:link {
   color: #0f4e77;
   background-color: transparent;
   text-decoration: none;
-
+}
 a:visited {
   color: #D66536;
   background-color: transparent;
