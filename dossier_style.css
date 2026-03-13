@@ -14,7 +14,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ae9372;
+  background-color: #d4c6ba;
 }
 
 ul li {
@@ -31,7 +31,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #ae9372;
+  background-color: #d4c6ba;
 }
 
 a:link {
@@ -42,7 +42,7 @@ div.response {
     position: relative;
   left: 50px;  
   width: 800px;
-  background-color: #ae9372;
+  background-color: #d4c6ba;
   padding: 5px 5px 5px 5px;
 
 }
