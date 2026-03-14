@@ -41,6 +41,7 @@ div.response {
   background-color: #d4c6ba;
   border-style: double;
   border-color: #83DBD1;
+  border-width: medium;
   padding: 5px 5px 5px 5px;
 
 }
